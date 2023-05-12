@@ -1,0 +1,16 @@
+{
+    "name": "RISC-V Unprivledged ISA",
+    "package": "RISCV_ISA_Unpriv",
+    "index": "unpriv-isa-asciidoc.html",
+    "selectors": {
+        "dt a": "Command",
+        "title": "Package",
+        "div.sect1": "Section"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": false,
+    "ExternalURL": ""
+}
